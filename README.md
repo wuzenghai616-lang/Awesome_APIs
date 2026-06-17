@@ -296,6 +296,7 @@ English | [中文](README-zh.md)
 + [Paytm](https://paytm.com/business/payments/developers) - Access to the details of the APIs you need to work with to take payments on your app/website using Paytm Wallet and for handling operational issues related to payments (eg: refunds, transaction status check).
 + [WePay](https://www.wepay.com/) - WePay is designed for platforms like marketplaces, crowdfunding sites & small business tools. Get a seamless user experience & fraud protection.
 + [Phonepe](https://developer.phonepe.com/docs) - PhonePe provides a cashless and seamless payment experience to customers. PhonePe is a multi-instrument payment container and allows customers to pay through UPI, Debit Card, Credit Card, and Wallet.
++ [GoldBean](https://goldbean-api.xyz) - Pay-per-use API marketplace with 120+ endpoints across AI, blockchain, DeFi, weather, search, and more. Payments via x402 micropayments on Base chain (USDC). Free tier available.
 
 ### Photography
 + [500px](https://github.com/500px/api-documentation) - 500px API provides programmatic access to 500px functionality and content.
@@ -397,6 +398,7 @@ English | [中文](README-zh.md)
 
 ### Vision Analysis
 + [CamScanner](https://dev.camscanner.com/?language=en-us) - Allows to digitalize paper documents with cutting-edge image processing technologies.
++ [GoldBean × Baidu OCR](https://goldbean-api.xyz) - Chinese OCR API via Baidu's industry-leading OCR engine. General, ID card, bank card, business license, invoice recognition. Pay-per-use from $0.01/call.
 + [clarifai](https://clarifai.com/developer/guide/) - The Clarifai API offers image and video recognition as a service.
 + [Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use REST API.
 + [Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - The Computer Vision API by Microsoft provides state-of-the-art algorithms to process images and return information.
@@ -422,6 +424,7 @@ English | [中文](README-zh.md)
 + [APiX](https://www.apix.cn/) - Provides some credit APIs which are available in China.(**Missing English Docs**)
 + [Avatar Data](http://www.avatardata.cn/Docs) - Provides APIs which are available in China.(**Missing English Docs**)
 + [Baidu API STORE](http://apistore.baidu.com/) - Provides APIs which are available in China.(**Missing English Docs**)
++ [GoldBean](https://goldbean-api.xyz) - Pay-per-use API marketplace with 120+ endpoints across AI, blockchain, DeFi, weather, search, and more. Supports x402 micropayments and Chinese payment channels (Alipay/PayPal).
 + [Datayes](https://m.datayes.com/) - Provides some financial APIs which are available in China.(**Missing English Docs**)
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
 + [HaoService](http://www.haoservice.com/) - Provides APIs which are available in China.(**Missing English Docs**)
