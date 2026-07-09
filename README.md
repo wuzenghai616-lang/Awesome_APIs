@@ -231,6 +231,7 @@ English | [中文](README-zh.md)
 + [Google Cloud Prediction](https://cloud.google.com/prediction/docs/) - Google Cloud Prediction API provides a RESTful API to build Machine Learning models. Prediction's cloud-based machine learning tools can help analyze your data to add various features to your applications, such as customer sentiment analysis, spam detection, recommendation systems, and more.
 + [IBM Watson](https://developer.ibm.com/watson/) - Allow developers to build applications that utilize machine learning technologies such as natural language processing, computer vision, and prediction.
 + [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/services/cognitive-services/) - The Microsoft Azure Machine Learning platform provides capabilities such as natural language processing, recommendation engine, pattern recognition, computer vision, and predictive modeling.
++ [GoldBean](https://github.com/wuzenghai616-lang/goldbean) - A pay-per-call MCP Server providing 47 Baidu AI API endpoints (OCR, LLM chat, image generation, text-to-speech, etc.). 21 free endpoints available. Paid endpoints use x402 USDC micropayments on Base, plus PayPal and Alipay support. Install: `npx goldbean-mcp`.
 
 ### Maps
 + [Amap](http://lbs.amap.com/) - Access to Amap's web APIs.(**Missing English Docs**)
